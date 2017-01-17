@@ -71,3 +71,74 @@ As Kanye West said:
 
 > vivir es un ir muriendo día a día 
 
+>prueba de cita
+
+> **prueba de negrita y cita**
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+``` html
+Hola
+
+<h1>Hola</h1>
+
+```
+
+`Hola gitbook`
+
+`
+prueba
+`
+
+
+Text prior to footnote reference.[^2]
+
+hola
+
+[^2]: Comment to include in footnote.
+
+prueba nota al pie [^3]
+
+seguir escribiendo tras la cita referenciada
+
+[^3]: nota prueba pie
+
+Three or more...
+
+---
+
+Hyphens
+
+***
+
+Asterisks
+ 
+***
+
+ñaldkfjlasdkjflñaskdjf
+
+---
+
+\*algo\*
+
+\*pruebaalgo\*
+
+Esto es una fórmula: 
+$$x=\frac{1+y}{1+2z^2}$$
+
+
+
+
+
+
+
+
+
+
+
+
+
