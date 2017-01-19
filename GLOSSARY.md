@@ -1,11 +1,9 @@
 # Glossary
 
-## PRUEBA GLOSARIO
+## HTML
+Lenguaje de marcas
 
-HOY ES JUEVES
-
-## TERMINO SEGUNDO
-
-ESTO ES UNA ** PRUEBA**  
+## Compilador
+Un compilador es bla... 
 
 
